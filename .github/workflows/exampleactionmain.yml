@@ -1,4 +1,4 @@
-name: Test Jenkins Action
+name: Example Jenkins Action
 on:
   workflow_dispatch:
 jobs:
